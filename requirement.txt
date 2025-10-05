@@ -1,0 +1,11 @@
+# GUI library (Tkinter comes with standard Python, included for clarity)
+tk
+
+# Networking and OS utilities
+psutil
+
+# Optional but recommended for improved DNS operations
+dnspython
+
+# For Windows/Linux/macOS subprocess and threading (standard libraries, no install needed)
+# platform, subprocess, re, socket, threading, time -> built-in
