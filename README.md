@@ -1,4 +1,4 @@
-# Ultimate Pro DNS Switcher (KAVASRI)
+# Ultimate Pro DNS Switcher GUI App (KAVASRI)
 
 **Short Description:**  
 A powerful, cross-platform Python application to manage, switch, and monitor DNS servers easily.
